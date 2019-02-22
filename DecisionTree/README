@@ -1,0 +1,1 @@
+This folder contains ID3 implementations to train decision trees. Within the files, the tree-depth and decision type (entropy, ME or GI) can be adjusted. Each python file will read the train and test data, and adjust the examples of the data as necessary. The code will also train the model and compute the training and test error.
