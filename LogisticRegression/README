@@ -1,0 +1,4 @@
+This is the README for homework 5. This python code includes both the learning techniques of logistic regression
+and neural networks with back propagation.
+
+There are multiple vairables in each file that can be adjusted including gamma and d.
